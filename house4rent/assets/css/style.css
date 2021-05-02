@@ -1,0 +1,13 @@
+.banani{
+	margin: 10px 50px;
+}
+.banani img{
+ transition: 1s;
+ padding: 10px;
+ width: 400px;
+ height: 500px;
+}
+.banani img:hover{
+	filter: grayscale(100%);
+	transform: scale(1.1);
+}
